@@ -12,8 +12,6 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 
 ## Table of Contents
 
-## Table of Contents
-
 - [Features](#features)
 - [Architecture Overview](#architecture-overview)
 - [Technologies Used](#technologies-used)
@@ -190,31 +188,11 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 
 ## System Design
 
-<img src="./imgs/WhatsApp Image 2025-03-15 at 22.35.59.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-15 at 22.35.59 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.32.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.35 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.36.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.36 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.33 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.35.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp%20Image%202025-03-15%20at%2022.33.23.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.37 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.37.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.38 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.41.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.41 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.43.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 16.36.04.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 16.36.04 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 16.36.05.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.47.jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.47 (1).jpeg" alt="device page" width="175" style="border-radius: 30px; margin: 10px;"/>
-<img src="./imgs/WhatsApp Image 2025-03-27 at 11.08.43 (1).jpeg" alt="profile page" width="175" style="border-radius: 30px; margin: 10px;"/>
+<img src="./imgs/Untitled.jpg" alt="pages"/>
 
 ## Contributors
 
-- **Vaishnavi Chintha** [`@vaishnavi-chintha`] – React UI, Page navigation, core device services
+- **Vaishnavi Chintha** [`@Vaishnavi-chintha`] – React UI, Page navigation, device and energy services
 - **Adam Aboushady** [`@aha2003`] – Firebase integration, backend sync, app scaffolding
 - **Huda Nayyer** [`@HudaNayyer`] – Documentation, authentication logic
 
