@@ -1,4 +1,4 @@
-# WattHome – Smart Home Control System
+# WattHome – Smart Home device and energy management system
 
 ![React Native](https://img.shields.io/badge/React_Native-%5E0.73-61DAFB?logo=react)
 ![Expo](https://img.shields.io/badge/Expo-%5E50.0.0-blue)
