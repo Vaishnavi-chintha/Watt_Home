@@ -15,7 +15,7 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 - [Technologies Used](#technologies-used)
 - [Folder Structure](#folder-structure)
 - [Setup Instructions](#setup-instructions)
-- [System Design](#system-design)
+- [Demo](#demo)
 - [Contributors](#contributors)
 - [License](#license)
 
@@ -37,6 +37,8 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 - Uses TypeScript with JSX for type-safe and scalable UI development
 - Expo Router for file-based navigation between screens
 - Styled components for UI design consistency
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.dev/)
 
 **Backend (Firebase)**
 
@@ -45,6 +47,7 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 - API-driven interaction between frontend and backend
 - Declarative access control rules for secure, GDPR-compliant data access
 - Real-time listeners for instant UI updates
+- [Firebase](https://firebase.google.com/)
 
 ## Technologies Used
 
@@ -70,6 +73,13 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 - TypeScript
 - JavaScript (ES6+)
 - Styled Components
+
+## Prerequisites
+
+- Node.js (v16+)
+- npm (v8+)
+- Xcode (for iOS development)
+- Expo CLI
 
 ## Setup Instructions
 
@@ -107,7 +117,7 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 
     For web version enter w in the terminal and click enter.
 
-    For the expo app version enter c and scan the qr code using a the mobile
+    For the expo app version enter c and scan the qr code using the mobile
     iOS Version Setup (Xcode Simulator)
 
     ### If you want to run the iOS version on the Xcode Simulator, follow the steps below:
@@ -184,15 +194,17 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 
     Once scanned, the app should launch on your mobile device.
 
-## System Design
+## Demo
+
+Some screenshots of the app:
 
 <img src="./imgs/Untitled.jpg" alt="pages"/>
 
 ## Contributors
 
-- **Vaishnavi Chintha** [`@Vaishnavi-chintha`] – React UI, Page navigation, device and energy services
-- **Adam Aboushady** [`@aha2003`] – Firebase integration, backend sync, app scaffolding
-- **Huda Nayyer** [`@HudaNayyer`] – Documentation, authentication logic
+- **Vaishnavi Chintha** [`@Vaishnavi-chintha`](https://github.com/Vaishnavi-chintha) – React UI, Page navigation, device and energy services
+- **Adam Aboushady** [`@aha2003`](https://github.com/aha2003) – Firebase integration, backend sync, app scaffolding
+- **Huda Nayyer** [`@HudaNayyer`](https://github.com/HudaNayyer) – Documentation, authentication logic
 
 ## License
 
