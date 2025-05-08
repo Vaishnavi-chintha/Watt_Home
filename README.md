@@ -4,8 +4,6 @@
 ![Expo](https://img.shields.io/badge/Expo-%5E50.0.0-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-integrated-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-4.x-blue?logo=typescript)
-![Styled Components](https://img.shields.io/badge/Styled--Components-%5E6.0-pink?logo=styled-components)
-![Chart Kit](https://img.shields.io/badge/Charts-react--native--chart--kit-blue)
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
 WattHome is a cross-platform mobile application for managing smart home devices, energy generation and usage. It enables real-time device monitoring, energy tracking, and automation scheduling. This project was developed using React Native with Expo and Firebase as the backend.
