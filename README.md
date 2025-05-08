@@ -198,7 +198,7 @@ WattHome is a cross-platform mobile application for managing smart home devices,
 
 Some screenshots of the app:
 
-<img src="./imgs/Untitled.jpg" alt="pages"/>
+<img src="./imgs/Untitled.png" alt="pages"/>
 
 ## Contributors
 
