@@ -212,4 +212,4 @@ This project is licensed under the [MIT License](./LICENSE) © 2025 WattUp Solut
 
 ---
 
-> Made with joy by **WattUp Solutions** – 2025 F29SO and F29PD Year long Project, Heriot Watt University, Dubai
+> Made with care by **WattUp Solutions** – 2025 F29SO and F29PD Year long Project, Heriot Watt University, Dubai
